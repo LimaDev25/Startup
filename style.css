@@ -158,14 +158,14 @@ nav{
 .full-image{
   padding: 0%;
   margin: 0%;
-  background: radial-gradiente(circle, #4ade80, #0c4a6e);
   width: 600px;
   margin:40px 0;
   align-items:center;
-  margin-left: 425px;
   border-radius: 25px;
   transform:  scale(1.5);
   clip-path: inset(15px round 12px);
+  margin-left: auto;
+  margin-right: auto;
 
 }
 
