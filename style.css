@@ -156,11 +156,13 @@ nav{
 /* IMAGE */
 
 .full-image{
+  padding: 0%;
+  margin: 0%;
   width: 600px;
-  border-radius:30px;
   margin:40px 0;
   align-items:center;
-  margin-left: 100px;
+  margin-left: 350px;
+  border-radius: 25px;
 }
 
 /* SPLIT */
