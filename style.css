@@ -226,6 +226,8 @@ input{
   display:flex;
   align-items:center;
   gap:12px;
+  padding:16px 14px;
+  border-radius:15px;
 }
 
 .submit-btn{
@@ -303,3 +305,4 @@ footer{
 #telefone{
   letter-spacing:1px;
 }
+
