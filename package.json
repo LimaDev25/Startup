@@ -12,10 +12,13 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+    "@supabase/ssr": "^0.10.3",
+    "@supabase/supabase-js": "^2.106.1",
     "body-parser": "^1.20.3",
+    "dotenv": "^17.4.2",
     "express": "^5.2.1",
-    "mssql": "^11.0.0"
+    "mssql": "^11.0.0",
+    "mysql2": "^3.11.5",
+    "pg": "^8.21.0"
   }
 }
-
-
